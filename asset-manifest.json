@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Movie-App-Olu/static/css/main.d262b98e.css",
+    "main.js": "/Movie-App-Olu/static/js/main.7d6584a4.js",
+    "static/media/trailer.jpeg": "/Movie-App-Olu/static/media/trailer.c9bb81042fcca773e5ea.jpeg",
+    "static/media/background.jpeg": "/Movie-App-Olu/static/media/background.0f9acc9752c9e7444c63.jpeg",
+    "static/media/imdb.png": "/Movie-App-Olu/static/media/imdb.c523e283dbd9f1f33a32.png",
+    "static/media/last-image.jpeg": "/Movie-App-Olu/static/media/last-image.bc6b907d752a36351fb7.jpeg",
+    "static/media/Spinner.svg": "/Movie-App-Olu/static/media/Spinner.c0c5de893e7291ca049e1a49a3b27fa0.svg",
+    "index.html": "/Movie-App-Olu/index.html",
+    "main.d262b98e.css.map": "/Movie-App-Olu/static/css/main.d262b98e.css.map",
+    "main.7d6584a4.js.map": "/Movie-App-Olu/static/js/main.7d6584a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d262b98e.css",
+    "static/js/main.7d6584a4.js"
+  ]
+}
